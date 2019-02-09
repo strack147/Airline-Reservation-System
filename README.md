@@ -51,15 +51,10 @@ Admin:
 Customer:
 
 •	Catalog printing services
-
 •	Ticket only if available eistirio
-
 •	Print Ticket purchased
-
 •	buying a ticket cancellation
-
 •	Ability to purchase tickets for flight response (ie Heraklion-Athens, Athens London) only if tickets are available on all flights       involved.
-
 •	Client disconnection from the system. When disconnecting the system, not the program is terminated.
 
   Furthermore the user program can be closed. For this operation it is required to store during closing and loading the data when         opening the program.
