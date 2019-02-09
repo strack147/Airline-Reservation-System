@@ -1,6 +1,7 @@
 An information system for an airline.
 
 The company has:
+
   ->	Employees. Each employee has the name, the AT, the address, telephone number and birth date. Employees are divided into                 administrators, pilots and flight attendants. The administrators have the additional charaktiristko their grammatical knowledge         and years of service pilots of flight hours and flight attendants years seniority.
   
   ->	Itinerary. A route has a code starting point, destination, day out (a single one of the Monday ... Sunday), time of departure and         arrival. Also has the ticket price.
@@ -13,6 +14,7 @@ The company has:
   
   
 The following functions should be supported:
+
   ->	Choose correctly what features are public, protected, private.
   
   ->	For each class must be defined set and get functions for all attributes / variables of each class. Also you need to set a Display         method for each class.
@@ -26,9 +28,11 @@ The following functions should be supported:
   ->	Define a class company which will manage the basic functions. You have a list of schedules, a list of customers, a list of                 employees, and a list of tickets. Supports all insert and delete functions of all previous lists. Also it manages the interface           (graphical or not)
   
 Functionality:
+
 When you start the system prompts the user to enter the username and password (username, password). Then it identifies the user and displays the function menu corresponding to the category of the user (administrator or customer). The functions available for each user category are:
 
 Admin:
+
 •	Create User Account
 
 •	Print Catalog Routes
@@ -45,6 +49,7 @@ Admin:
 
 
 Customer:
+
 •	Catalog printing services
 
 •	Ticket only if available eistirio
