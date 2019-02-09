@@ -1,0 +1,123 @@
+﻿  admarre.cpp
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admarre.h(516): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admarre.h(539): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admarre.h(563): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admarre.h(585): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admarre.h(607): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admarre.h(629): warning C4101: 'ex': unreferenced local variable
+  admarroute.cpp
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admarroute.h(365): warning C4101: 'myReader': unreferenced local variable
+  admcreateuser.cpp
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admcreateuser.h(333): warning C4101: 'myReader': unreferenced local variable
+  admdcl.cpp
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admdcl.h(134): warning C4101: 'ex': unreferenced local variable
+  admdisproute.cpp
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admdisproute.h(123): warning C4101: 'myReader': unreferenced local variable
+  admdtpc.cpp
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admdtpc.h(168): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admdtpc.h(200): warning C4101: 'ex': unreferenced local variable
+  adminmenu.cpp
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admcreateuser.h(333): warning C4101: 'myReader': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admdisproute.h(123): warning C4101: 'myReader': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admarroute.h(365): warning C4101: 'myReader': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admarre.h(516): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admarre.h(539): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admarre.h(563): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admarre.h(585): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admarre.h(607): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admarre.h(629): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admdcl.h(134): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admdtpc.h(168): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admdtpc.h(200): warning C4101: 'ex': unreferenced local variable
+  companymenu.cpp
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\comparc.h(349): warning C4101: 'myReader': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compare.h(539): warning C4101: 'myReader3': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compare.h(558): warning C4101: 'myReader4': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compare.h(520): warning C4101: 'myReader2': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compare.h(501): warning C4101: 'myReader': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\comparr.h(358): warning C4101: 'myReader': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compart.h(309): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compart.h(329): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compart.h(349): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compart.h(439): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compart.h(525): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compart.h(553): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compart.h(569): warning C4101: 'ex': unreferenced local variable
+  comparc.cpp
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\comparc.h(349): warning C4101: 'myReader': unreferenced local variable
+  compare.cpp
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compare.h(539): warning C4101: 'myReader3': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compare.h(558): warning C4101: 'myReader4': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compare.h(520): warning C4101: 'myReader2': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compare.h(501): warning C4101: 'myReader': unreferenced local variable
+  comparr.cpp
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\comparr.h(358): warning C4101: 'myReader': unreferenced local variable
+  compart.cpp
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compart.h(309): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compart.h(329): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compart.h(349): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compart.h(439): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compart.h(525): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compart.h(553): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compart.h(569): warning C4101: 'ex': unreferenced local variable
+  MyForm.cpp
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admcreateuser.h(333): warning C4101: 'myReader': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admdisproute.h(123): warning C4101: 'myReader': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admarroute.h(365): warning C4101: 'myReader': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admarre.h(516): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admarre.h(539): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admarre.h(563): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admarre.h(585): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admarre.h(607): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admarre.h(629): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admdcl.h(134): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admdtpc.h(168): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\admdtpc.h(200): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\userdisproute.h(123): warning C4101: 'myReader': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\userdispst.h(126): warning C4101: 'myReader': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\usercatp.h(237): warning C4101: 'myReade2r': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\usercatp.h(218): warning C4101: 'myReader': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\usercatp.h(334): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\comparc.h(349): warning C4101: 'myReader': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compare.h(539): warning C4101: 'myReader3': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compare.h(558): warning C4101: 'myReader4': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compare.h(520): warning C4101: 'myReader2': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compare.h(501): warning C4101: 'myReader': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\comparr.h(358): warning C4101: 'myReader': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compart.h(309): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compart.h(329): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compart.h(349): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compart.h(439): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compart.h(525): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compart.h(553): warning C4101: 'ex': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\compart.h(569): warning C4101: 'ex': unreferenced local variable
+  signupmenu.cpp
+  userbat.cpp
+  usercatp.cpp
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\usercatp.h(237): warning C4101: 'myReade2r': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\usercatp.h(218): warning C4101: 'myReader': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\usercatp.h(334): warning C4101: 'ex': unreferenced local variable
+  userdisproute.cpp
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\userdisproute.h(123): warning C4101: 'myReader': unreferenced local variable
+  userdispst.cpp
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\userdispst.h(126): warning C4101: 'myReader': unreferenced local variable
+  usermenu.cpp
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\userdisproute.h(123): warning C4101: 'myReader': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\userdispst.h(126): warning C4101: 'myReader': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\usercatp.h(237): warning C4101: 'myReade2r': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\usercatp.h(218): warning C4101: 'myReader': unreferenced local variable
+d:\documents\desktop\νικοσ\σχολή\εξάμηνο ε\σχολή usb\γλώσσες προγραμματισμού\γπ project\projects\airlinereservationsystem(11)\airlinereservationsystem\usercatp.h(334): warning C4101: 'ex': unreferenced local variable
+  Generating Code...
+  Tickets.cpp
+  Schedule.cpp
+  Routeexc.cpp
+  Pilot.cpp
+  Employee.cpp
+  dioikitiki.cpp
+  Customer.cpp
+  Company.cpp
+  Airhost.cpp
+  Generating Code...
+  admarre.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  AirlineReservationSystem.vcxproj -> D:\Documents\Desktop\ΝΙΚΟΣ\Σχολή\Εξάμηνο Ε\Σχολή USB\Γλώσσες Προγραμματισμού\ΓΠ Project\Projects\AirlineReservationSystem(11)\Debug\AirlineReservationSystem.exe
+  AirlineReservationSystem.vcxproj -> D:\Documents\Desktop\ΝΙΚΟΣ\Σχολή\Εξάμηνο Ε\Σχολή USB\Γλώσσες Προγραμματισμού\ΓΠ Project\Projects\AirlineReservationSystem(11)\Debug\AirlineReservationSystem.pdb (Partial PDB)
